@@ -170,7 +170,6 @@ Property :
 | 1 | Không hiển thị logo | GET file:///C:/Users/LeMinhHP/Downloads/starter-kit/starter-kit/thue-do-cam-trai-website/web/images/logo.png net::ERR_FILE_NOT_FOUND | sửa lại link trong VS Code |
 | 2 | sai tên cấu trúc | app.js:18
  Uncaught ReferenceError: hienThiBangThue is not defined
-(anonymous)	@	app.js:18
 ﻿ | Sửa lại tên cấu trúc |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
