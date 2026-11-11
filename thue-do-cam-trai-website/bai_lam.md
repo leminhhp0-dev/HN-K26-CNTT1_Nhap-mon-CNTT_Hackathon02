@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:Lê Hồng Minh**
 - **Lớp:HN-K26-CNTT1**
-- **Link repository:**
+- **Link repository:https://github.com/leminhhp0-dev/HN-K26-CNTT1_Nhap-mon-CNTT_Hackathon02**
 - **Hệ điều hành (Windows/macOS):windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
